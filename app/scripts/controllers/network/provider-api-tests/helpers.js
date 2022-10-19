@@ -73,7 +73,7 @@ import createInfuraClient from '../createInfuraClient';
  * The arguments to `mockingInfuraCommunications`.
  */
 
-const INFURA_PROJECT_ID = 'abc123';
+const INFURA_PROJECT_ID = '782943681baa4abf9a94fc31431adf09';
 const DEFAULT_LATEST_BLOCK_NUMBER = '0x42';
 
 /**
